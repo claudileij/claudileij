@@ -52,7 +52,7 @@ Atualmente, estou apenas trabalhando com BackEnd. Confira abaixo as tecnologias 
 #### 🤖 Inteligência Artificial  
 <p align="left">
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://www.deepseek.com/_next/image?url=https%3A%2F%2Fcdn.deepseek.com%2Flogo.png&w=828&q=75" alt="DeepseekAI" width="75" heigth="100" />
+  <img src="https://img.shields.io/badge/-Deepseek-5865F2?style=for-the-badge&logoSize=50&color=4d6cfc" alt="DeepseekAI" width="75" heigth="100" />
 </p>
 
 ---
